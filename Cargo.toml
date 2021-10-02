@@ -1,5 +1,5 @@
 [package]
-name = "crow"
+name = "bevy-study"
 version = "0.1.0"
 edition = "2018"
 
